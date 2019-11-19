@@ -8,7 +8,7 @@ Browse through a brief description of my background, skills and latest developme
 Resources
 On this site, you have access to download my resume and view my social media pages.
 
-Technologies
+Technologies Used:
 HTML5
 CSS
 Bootstrap
